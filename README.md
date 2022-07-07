@@ -19,6 +19,6 @@ Find information above for running tests
 * Run tests using:
   ```
   browser mode: npx cypress open
-  ```
   headless mode: npx cypress run
   ```
+ 
